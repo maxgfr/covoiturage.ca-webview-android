@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-25.1.1_eb637d603c1063b2e3298f05ad92785fedf41d30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-25.1.1_da5e2c4bd26e3e49e35bb6d8ffcb0dacd465cfef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-25.1.1_b1dc5fe091e27c943e339f41cb8b9008b2639ef5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-25.1.1_e5bc9e78390b6349fff7e9512b0ede6b6a3a33fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-25.1.1_6ded3a5091af1b0e31f0f8215af230e5ef9865e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-25.1.1_2fd67681df1276a8525987a479edd1187f62593a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-25.1.1_f3461568e3bb35e2b4fd268ca29f05f055c00515.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\support-annotations-25.1.1_74bb2401c12b532211851f01f3f0c8116a26ac56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-25.1.1_bb6cbd06681da06cfad3dcf685bc677241725668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\maxime\Desktop\webview android\Covoiturage\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-25.1.1_cc284f910c848a6683d2a7e99b6cd090f7ceff30.jar" />
+    </item>
+
+</items>
